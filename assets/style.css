@@ -171,3 +171,5 @@ address { font-style: normal; }
   .hero-photo .pycno-mark { animation: turn 60s linear infinite; }
   @keyframes turn { to { transform: rotate(360deg); } }
 }
+
+.role-name { color: var(--violet); font-weight: 600; }
