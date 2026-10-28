@@ -138,6 +138,7 @@ section + section { border-top: 1px solid var(--rule); }
 
 /* About */
 .about-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 3rem; align-items: start; }
+.about-grid p { font-size: 1.15rem; }
 .about-grid img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 6px; }
 @media (max-width: 760px) { .about-grid { grid-template-columns: 1fr; } }
 
