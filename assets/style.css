@@ -104,7 +104,7 @@ section + section { border-top: 1px solid var(--rule); }
 .methods { list-style: none; padding: 0; margin: 0; }
 .methods li { padding: .9rem 0; border-top: 1px solid var(--rule); }
 .methods li:last-child { border-bottom: 1px solid var(--rule); }
-.methods strong { font-family: var(--display); font-weight: 400; display: block; }
+.methods strong { font-family: var(--display); font-weight: 400; display: block; font-size: 1.3rem; color: var(--violet); margin-bottom: .2rem; }
 
 /* Timeline (research) */
 .timeline { list-style: none; margin: 0; padding: 0; position: relative; }
